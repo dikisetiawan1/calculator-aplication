@@ -3,6 +3,7 @@
     margin: 0 auto;
     padding-top: 200px;
     width: 400px;
+    margin-bottom: 100px;
 }
 
 .calculator-screen{
@@ -48,4 +49,19 @@ button:hover{
 
 .operator:hover, .equal-sign:hover{
     background-color: darkorange;
+}
+
+.txt-title{
+    text-align: center;
+    margin-bottom: -100px;
+    margin-top: 5%;
+    
+}
+
+.txt-title h1{
+    color: orange;
+    font-size:56px;
+    text-shadow: 2px 2px yellow;
+    cursor: pointer;
+    
 }
